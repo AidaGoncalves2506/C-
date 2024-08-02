@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\bin\Debug\Tarefa4 c#.exe.config
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\bin\Debug\Tarefa4 c#.exe
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\bin\Debug\Tarefa4 c#.pdb
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\obj\Debug\Tarefa4 c#.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\obj\Debug\Tarefa4 c#.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\obj\Debug\Tarefa4 c#.exe
+C:\Users\Aidac\source\repos\Tarefa4 c#\Tarefa4 c#\obj\Debug\Tarefa4 c#.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\bin\Debug\Menudeumrestaurante.exe.config
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\bin\Debug\Menudeumrestaurante.exe
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\bin\Debug\Menudeumrestaurante.pdb
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\obj\Debug\Menudeumrestaurante.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\obj\Debug\Menudeumrestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\obj\Debug\Menudeumrestaurante.exe
+C:\Users\Aidac\source\repos\Menudeumrestaurante\Menudeumrestaurante\obj\Debug\Menudeumrestaurante.pdb

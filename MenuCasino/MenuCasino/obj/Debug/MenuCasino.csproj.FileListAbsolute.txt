@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\bin\Debug\MenuCasino.exe.config
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\bin\Debug\MenuCasino.exe
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\bin\Debug\MenuCasino.pdb
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\obj\Debug\MenuCasino.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\obj\Debug\MenuCasino.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\obj\Debug\MenuCasino.exe
+C:\Users\Aidac\source\repos\MenuCasino\MenuCasino\obj\Debug\MenuCasino.pdb

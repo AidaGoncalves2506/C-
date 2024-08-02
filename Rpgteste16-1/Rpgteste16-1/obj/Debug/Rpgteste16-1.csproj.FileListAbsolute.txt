@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\bin\Debug\Rpgteste16-1.exe.config
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\bin\Debug\Rpgteste16-1.exe
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\bin\Debug\Rpgteste16-1.pdb
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\obj\Debug\Rpgteste16-1.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\obj\Debug\Rpgteste16-1.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\obj\Debug\Rpgteste16-1.exe
+C:\Users\Aidac\source\repos\Rpgteste16-1\Rpgteste16-1\obj\Debug\Rpgteste16-1.pdb

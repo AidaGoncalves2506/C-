@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\bin\Debug\JogoApostas.exe.config
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\bin\Debug\JogoApostas.exe
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\bin\Debug\JogoApostas.pdb
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\obj\Debug\JogoApostas.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\obj\Debug\JogoApostas.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\obj\Debug\JogoApostas.exe
+C:\Users\Aidac\source\repos\JogoApostas\JogoApostas\obj\Debug\JogoApostas.pdb

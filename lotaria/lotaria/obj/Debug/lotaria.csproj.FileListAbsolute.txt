@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\lotaria\lotaria\bin\Debug\lotaria.exe.config
+C:\Users\Aidac\source\repos\lotaria\lotaria\bin\Debug\lotaria.exe
+C:\Users\Aidac\source\repos\lotaria\lotaria\bin\Debug\lotaria.pdb
+C:\Users\Aidac\source\repos\lotaria\lotaria\obj\Debug\lotaria.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\lotaria\lotaria\obj\Debug\lotaria.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\lotaria\lotaria\obj\Debug\lotaria.exe
+C:\Users\Aidac\source\repos\lotaria\lotaria\obj\Debug\lotaria.pdb
