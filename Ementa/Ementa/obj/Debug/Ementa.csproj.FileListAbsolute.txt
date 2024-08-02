@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\Ementa\Ementa\bin\Debug\Ementa.exe.config
+C:\Users\Aidac\source\repos\Ementa\Ementa\bin\Debug\Ementa.exe
+C:\Users\Aidac\source\repos\Ementa\Ementa\bin\Debug\Ementa.pdb
+C:\Users\Aidac\source\repos\Ementa\Ementa\obj\Debug\Ementa.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\Ementa\Ementa\obj\Debug\Ementa.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Ementa\Ementa\obj\Debug\Ementa.exe
+C:\Users\Aidac\source\repos\Ementa\Ementa\obj\Debug\Ementa.pdb

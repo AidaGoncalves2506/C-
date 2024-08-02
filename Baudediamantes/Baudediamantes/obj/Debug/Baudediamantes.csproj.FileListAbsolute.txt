@@ -1,0 +1,7 @@
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\bin\Debug\Baudediamantes.exe.config
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\bin\Debug\Baudediamantes.exe
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\bin\Debug\Baudediamantes.pdb
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\obj\Debug\Baudediamantes.csproj.AssemblyReference.cache
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\obj\Debug\Baudediamantes.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\obj\Debug\Baudediamantes.exe
+C:\Users\Aidac\source\repos\Baudediamantes\Baudediamantes\obj\Debug\Baudediamantes.pdb

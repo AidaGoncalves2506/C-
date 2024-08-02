@@ -1,0 +1,14 @@
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\bin\Debug\net8.0\Imprimiraminhainformaçao.exe
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\bin\Debug\net8.0\Imprimiraminhainformaçao.deps.json
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\bin\Debug\net8.0\Imprimiraminhainformaçao.runtimeconfig.json
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\bin\Debug\net8.0\Imprimiraminhainformaçao.dll
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\bin\Debug\net8.0\Imprimiraminhainformaçao.pdb
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.AssemblyInfoInputs.cache
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.AssemblyInfo.cs
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.csproj.CoreCompileInputs.cache
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.dll
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\refint\Imprimiraminhainformaçao.dll
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.pdb
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\Imprimiraminhainformaçao.genruntimeconfig.cache
+C:\Users\Aidac\source\repos\Imprimiraminhainformaçao\Imprimiraminhainformaçao\obj\Debug\net8.0\ref\Imprimiraminhainformaçao.dll
